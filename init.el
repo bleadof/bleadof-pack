@@ -8,3 +8,4 @@
 (live-load-config-file "auto-complete-conf.el")
 (live-load-config-file "bindings.el")
 (live-load-config-file "indent-all-conf.el")
+(live-load-config-file "less-css-mode-conf.el")
