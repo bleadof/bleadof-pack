@@ -1,3 +1,6 @@
 [submodule "vendor/submodules/less-css-mode"]
 	path = vendor/submodules/less-css-mode
 	url = https://github.com/purcell/less-css-mode.git
+[submodule "vendor/submodules/coffee-mode"]
+	path = vendor/submodules/coffee-mode
+	url = https://github.com/defunkt/coffee-mode.git
