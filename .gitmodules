@@ -4,3 +4,6 @@
 [submodule "vendor/submodules/coffee-mode"]
 	path = vendor/submodules/coffee-mode
 	url = https://github.com/defunkt/coffee-mode.git
+[submodule "vendor/submodules/rainbow-mode"]
+	path = vendor/submodules/rainbow-mode
+	url = https://github.com/emacsmirror/rainbow-mode.git

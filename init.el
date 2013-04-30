@@ -10,3 +10,4 @@
 (live-load-config-file "indent-all-conf.el")
 (live-load-config-file "less-css-mode-conf.el")
 (live-load-config-file "coffee-mode-conf.el")
+(live-load-config-file "rainbow-mode-conf.el")
