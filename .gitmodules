@@ -7,3 +7,6 @@
 [submodule "vendor/submodules/rainbow-mode"]
 	path = vendor/submodules/rainbow-mode
 	url = https://github.com/emacsmirror/rainbow-mode.git
+[submodule "vendor/submodules/php-mode"]
+	path = vendor/submodules/php-mode
+	url = https://github.com/ejmr/php-mode.git
