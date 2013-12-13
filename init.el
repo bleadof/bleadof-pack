@@ -12,3 +12,4 @@
 (live-load-config-file "coffee-mode-conf.el")
 (live-load-config-file "php-mode-conf.el")
 (live-load-config-file "rainbow-mode-conf.el")
+(live-load-config-file "haskell-mode-conf.el")
