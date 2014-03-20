@@ -16,3 +16,6 @@
 [submodule "vendor/submodules/ag.el"]
 	path = vendor/submodules/ag.el
 	url = https://github.com/Wilfred/ag.el.git
+[submodule "vendor/submodules/ido-vertical-mode"]
+	path = vendor/submodules/ido-vertical-mode
+	url = https://github.com/gempesaw/ido-vertical-mode.el.git
