@@ -3,6 +3,7 @@
 ;; User this file to initiate the pack configuration.
 ;; See README for more information.
 
+(live-load-config-file "mix-confs.el")
 (live-load-config-file "mac-keys.el")
 (live-load-config-file "auto-complete-conf.el")
 (live-load-config-file "associations.el")
