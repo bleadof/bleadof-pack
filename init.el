@@ -18,6 +18,7 @@
 ;; Modes
 (live-load-config-file "ido-vertical-mode-conf.el")
 (live-load-config-file "ido-ubiquitous-conf.el")
+(live-load-config-file "projectile-conf.el")
 
 ;; Language modes
 (live-load-config-file "less-css-mode-conf.el")

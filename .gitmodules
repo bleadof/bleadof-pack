@@ -22,3 +22,6 @@
 [submodule "vendor/submodules/ido-ubiquitous"]
 	path = vendor/submodules/ido-ubiquitous
 	url = https://github.com/DarwinAwardWinner/ido-ubiquitous.git
+[submodule "vendor/submodules/projectile"]
+	path = vendor/submodules/projectile
+	url = https://github.com/bbatsov/projectile.git
