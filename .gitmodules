@@ -25,3 +25,6 @@
 [submodule "vendor/submodules/projectile"]
 	path = vendor/submodules/projectile
 	url = https://github.com/bbatsov/projectile.git
+[submodule "vendor/submodules/highlight-indentation"]
+	path = vendor/submodules/highlight-indentation
+	url = https://github.com/antonj/Highlight-Indentation-for-Emacs.git

@@ -16,6 +16,7 @@
 (live-load-config-file "ag-conf.el")
 
 ;; Modes
+(live-load-config-file "highlight-indentation-conf.el")
 (live-load-config-file "ido-vertical-mode-conf.el")
 (live-load-config-file "ido-ubiquitous-conf.el")
 (live-load-config-file "projectile-conf.el")
