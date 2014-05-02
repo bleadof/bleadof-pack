@@ -1,6 +1,10 @@
 (live-add-pack-lib "coffee-mode")
 (require 'coffee-mode)
-(autoload 'coffee-mode "coffee-mode" "Major mode for CoffeeScript." t)
+(autoload 'coffee-mode "coffee-mode" "Major mode foxr CoffeeScript." t)
 (add-to-list 'auto-mode-alist '("\\.coffee$" . coffee-mode))
 (add-to-list 'ac-modes 'coffee-mode)
 (custom-set-variables '(coffee-tab-width 2))
+(add-hook 'coffee-mode-hook
+          (lambda ()
+            (highlight-indentation-mode)
+            (highlight-indentation-current-column-mode)))
