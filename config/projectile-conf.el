@@ -1,3 +1,5 @@
+(live-add-pack-lib "f.el")
+(live-add-pack-lib "s.el")
 (live-add-pack-lib "projectile")
 (require 'projectile)
 (projectile-global-mode)

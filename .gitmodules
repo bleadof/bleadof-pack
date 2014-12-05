@@ -28,3 +28,9 @@
 [submodule "vendor/submodules/highlight-indentation"]
 	path = vendor/submodules/highlight-indentation
 	url = https://github.com/antonj/Highlight-Indentation-for-Emacs.git
+[submodule "vendor/submodules/f.el"]
+	path = vendor/submodules/f.el
+	url = https://github.com/rejeep/f.el.git
+[submodule "vendor/submodules/s.el"]
+	path = vendor/submodules/s.el
+	url = https://github.com/magnars/s.el.git
