@@ -11,6 +11,7 @@
 
 ;; Libs
 (live-load-config-file "indent-all-conf.el")
+(live-load-config-file "rename-file-and-buffer-conf.el")
 
 ;; Utility integration
 (live-load-config-file "ag-conf.el")
