@@ -8,6 +8,7 @@
 (live-load-config-file "auto-complete-conf.el")
 (live-load-config-file "associations.el")
 (live-load-config-file "bindings.el")
+(live-load-config-file "backup-conf.el")
 
 ;; Libs
 (live-load-config-file "indent-all-conf.el")
